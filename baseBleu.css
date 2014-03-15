@@ -1,0 +1,11 @@
+.content
+{
+	border: 3px blue solid;
+	margin-top: 5px;
+}
+
+p
+{
+	color: blue;
+	text-align: center;
+}
